@@ -6,7 +6,7 @@ function App(props) {
   return (
     <>
       <div>
-        Teste GraphQL:
+        Teste s2q231 GraphQL:
         <Posts />
       </div>
     </>
